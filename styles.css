@@ -1,0 +1,27 @@
+h1{
+    color: rgb(23, 197, 213);
+}
+h1.h1-tag{
+    color: rgb(9, 221, 27);
+}
+
+body{
+    margin:0;
+}
+.nav-bar{
+    text-align: center;
+    background-color: rgb(14, 200, 126);
+    padding: 10px;
+    /* border:2px solid rgb(0, 0, 0); */
+}
+
+.nav-bar a{
+    text-decoration: none;
+    color: rgb(152, 91, 5);
+    padding: 10px;
+}
+
+.nav-bar a:hover{
+    text-decoration: underline;
+    background-color: rgb(255, 255, 255);
+}
