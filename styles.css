@@ -25,3 +25,32 @@ body{
     text-decoration: underline;
     background-color: rgb(255, 255, 255);
 }
+
+#img-card{
+    width: 340px;
+    height: 340px;
+}
+
+.card{
+    border: 2px solid black;
+    width: 340px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+    border-radius: 20px;
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+
+.card button{
+    width: 70%;
+    padding: 3%;
+    border: 0.000001px solid black;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.card button:hover{
+    cursor: pointer;
+}
