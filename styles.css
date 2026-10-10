@@ -53,4 +53,6 @@ body{
 
 .card button:hover{
     cursor: pointer;
+    background-color: rgb(14, 200, 126);
+    color: white;
 }
